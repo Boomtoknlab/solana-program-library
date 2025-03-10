@@ -745,7 +745,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "4114279215a005bc675e386011e594e1d9b800918cea18fcadadcce864a2046b"
 dependencies = [
  "borsh-derive 0.10.3",
- "hashbrown 0.13.2",
+ "hashbrown 0.12.3",
 ]
 
 [[package]]
@@ -8384,7 +8384,7 @@ dependencies = [
  "solana-sdk",
  "spl-math",
  "spl-token 7.0.0",
- "spl-token-2022 6.0.0",
+ "spl-token-2022 7.0.0",
  "test-case",
  "thiserror 2.0.12",
 ]
@@ -8412,7 +8412,7 @@ dependencies = [
  "solana-program-test",
  "solana-sdk",
  "spl-token 7.0.0",
- "spl-token-2022 6.0.0",
+ "spl-token-2022 7.0.0",
  "spl-token-client",
  "test-case",
  "thiserror 2.0.12",
@@ -8433,7 +8433,7 @@ dependencies = [
  "solana-test-validator",
  "spl-associated-token-account-client",
  "spl-token 7.0.0",
- "spl-token-2022 6.0.0",
+ "spl-token-2022 7.0.0",
  "spl-token-client",
  "spl-token-upgrade",
  "tokio",
@@ -8449,7 +8449,7 @@ dependencies = [
  "solana-program",
  "spl-associated-token-account 6.0.0",
  "spl-token 7.0.0",
- "spl-token-2022 6.0.0",
+ "spl-token-2022 7.0.0",
  "thiserror 2.0.12",
 ]
 
